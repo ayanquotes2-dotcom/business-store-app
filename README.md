@@ -1,6 +1,6 @@
-# 🏪 Business Store App
+# 🇵🇰 The English PK App
 
-A cross-platform mobile app built for local businesses to manage inventory and take online orders.
+A mobile English learning app with live classes, articles, vocabulary practice, listening exercises, and fun learning games.
 
 ---
 
@@ -19,11 +19,13 @@ A cross-platform mobile app built for local businesses to manage inventory and t
 
 ## ✨ Features
 
-- 📦 Inventory management system
-- 🛒 Online ordering for customers
-- 💳 Payment gateway integration
-- 🔔 Push notifications
-- 📊 Sales tracking & reports
+- 📖 Daily English articles for reading practice
+- 📚 Vocabulary builder with word definitions and examples
+- 🎧 Listening exercises with audio lessons
+- 🎮 Fun learning games to practice English skills
+- 🏫 Live online English classes
+- 📊 Progress tracking and performance reports
+- 🏆 Achievements and rewards system
 
 ---
 
